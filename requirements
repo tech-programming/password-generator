@@ -1,0 +1,5 @@
+pip install tk-tools      #this will install tkinter necessary tools
+
+
+pip install tkinter    #this will install tkinter
+
